@@ -55,7 +55,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone <your-github-repo-link>
+git clone <https://github.com/abcshalini1245/Figma-Assignment>
 ```
 
 Move into the project folder:
