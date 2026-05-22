@@ -102,7 +102,7 @@ while maintaining clean and reusable React code.
 
 
 ```md
-fgmaassignment-pt3u6ved3-abcshalini1245s-projects.vercel.app
+https://figma-assignment-shalini2.netlify.app/
 ```
 
 ---
